@@ -8,8 +8,6 @@ pptk==0.1.0
 pykitti==0.3.0
 scikit_learn==0.20.2
 termcolor==1.1.0
-torch==1.0.1
-torchvision==0.2.1
 lmdb>=0.9
 matplotlib>=2.1.0
 numpy>=1.14.0
